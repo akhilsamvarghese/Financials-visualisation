@@ -4,7 +4,7 @@ This notebook performs an analysis of a financials dataset. It includes the foll
 
 **1. Data Import and Preprocessing:**
 
-* Imports necessary libraries like pandas, matplotlib, and seaborn.
+* Imports necessary libraries like numpy, pandas, matplotlib, and seaborn.
 * Loads the dataset from a CSV file.
 * Cleans the data by:
     * Converting parentheses to negative numbers.
