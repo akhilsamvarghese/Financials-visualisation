@@ -26,6 +26,8 @@ This notebook performs an analysis of a financials dataset. It includes the foll
 * Exports the cleaned dataframe to a new CSV file.
 
 This notebook provides a comprehensive analysis of the financials dataset, using visualizations to highlight key trends and relationships.
-
+<p align="center">
+![Alt](https://repobeats.axiom.co/api/embed/d32a5cddbecc1a57f453cd145bfb5ab689d6af2c.svg "Repobeats analytics image")
+</p>
 
 ### The dataset used : https://www.kaggle.com/datasets/atharvaarya25/financials
