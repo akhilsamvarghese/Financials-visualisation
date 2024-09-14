@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-datasets-images/3577794/6228800/87b6decf65ba4b62aa32469df8b7826e/dataset-cover.jpg?t=2023-08-01-05-49-28" alt="Financials Dataset Cover" />
+  <img src="https://www.thebalancemoney.com/thmb/IHsp2cJYBi2Qm8hMZH-GpLTkDr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-182899857-56a0a5123df78cafdaa38eac.jpg" alt="Financials Dataset Cover" />
 </p>
 
 *****
