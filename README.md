@@ -31,8 +31,8 @@ This notebook performs an analysis of a financials dataset. It includes the foll
 
 This notebook provides a comprehensive analysis of the financials dataset, using visualizations to highlight key trends and relationships.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://repobeats.axiom.co/api/embed/d32a5cddbecc1a57f453cd145bfb5ab689d6af2c.svg" alt="Repobeats analytics image" />
-</p>
+</p> -->
 
 ### The dataset used : https://www.kaggle.com/datasets/atharvaarya25/financials
